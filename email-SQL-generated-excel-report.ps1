@@ -5,7 +5,7 @@ $currentDate= Get-Date -DisplayHint DateTime
 $From ='<from email>' 
 $myToEmails = <list all the emails in single quotes and seperated by comma>
 $SMTP= '<smtp address>' 
-$DSN='windows datasource name' 
+$DSN='<windows datasource name>' 
  
 # constants. 
 $xlCenter=-4108 
